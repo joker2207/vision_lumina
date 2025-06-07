@@ -1,0 +1,10 @@
+kivy
+opencv-python
+sounddevice
+scipy
+pygame
+gtts
+pydub
+google-cloud-speech
+numpy
+requestsgit 
